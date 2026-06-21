@@ -1,8 +1,16 @@
 {
-  "name": "1.0.0",
+  "name": "vibestream-api",
+  "version": "1.0.0",
   "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
   "dependencies": {
     "express": "^4.18.2",
     "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": ">=14"
   }
 }
