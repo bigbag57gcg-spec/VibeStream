@@ -1,0 +1,12 @@
+vibestream/
+│
+├── api/                ← THIS is your backend (missing right now)
+│   ├── index.js
+│   ├── package.json
+│
+├── web/                ← your frontend (already or soon)
+│   ├── app/
+│   │   ├── page.js
+│   ├── package.json
+│
+└── README.md
